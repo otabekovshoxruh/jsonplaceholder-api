@@ -1,0 +1,28 @@
+.form__column{
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    margin:30px auto;
+    padding: 10px 0;
+    
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,0.8352591036414566) 0%, rgba(252,70,107,0.7092086834733893) 100%);
+    border-radius: 30px;
+}
+
+
+.primary__wrapper{
+    border-radius: 30px;
+
+
+
+
+
+
+
+
+
+    
+}
